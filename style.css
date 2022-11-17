@@ -1,0 +1,38 @@
+body {
+    background-color: hsl(30, 38%, 92%);
+    height: 100%;
+}
+
+.desc {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    color: gray;
+}
+
+h1 {
+    font-family: "Fraunces", serif;
+    font-weight: 700;
+    line-height: 0.8;
+    padding: 20px 0px 20px 0px;
+
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 5px;
+    color: grey;
+}
+
+.price {
+    font-family: "Fraunces", serif;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+
+button {
+    width: 200px
+}
